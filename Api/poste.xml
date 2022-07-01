@@ -1,0 +1,158 @@
+<?xml version="1.0" standalone="yes"?>
+<postes>
+  <poste>
+    <Id>20</Id>
+    <Titre>spring boot developer</Titre>
+    <Description>we are looking for spring boot developer</Description>
+    <Contrat>CDI</Contrat>
+    <Salaire>6000.0000</Salaire>
+    <type>Travail</type>
+    <Competences>java spring boot html css js Mysql docker</Competences>
+    <IdEntreprise>3</IdEntreprise>
+    <dateCreation>2022-04-29T00:00:00+00:00</dateCreation>
+  </poste>
+  <poste>
+    <Id>21</Id>
+    <Titre>ASP.NET FORM and MVC AND MVC CORE</Titre>
+    <Description>we are looking for .Net  developer</Description>
+    <Contrat>CDI</Contrat>
+    <Salaire>6000.0000</Salaire>
+    <type>Travail</type>
+    <Competences>c# .net docker </Competences>
+    <IdEntreprise>3</IdEntreprise>
+    <dateCreation>2022-04-29T00:00:00+00:00</dateCreation>
+  </poste>
+  <poste>
+    <Id>23</Id>
+    <Titre>python developer</Titre>
+    <Description>we are lokking for python developer</Description>
+    <Contrat>CDI</Contrat>
+    <Salaire>3000.0000</Salaire>
+    <type>Travail</type>
+    <Competences>python django fast Api </Competences>
+    <IdEntreprise>3</IdEntreprise>
+    <dateCreation>2022-05-01T00:00:00+00:00</dateCreation>
+  </poste>
+  <poste>
+    <Id>24</Id>
+    <Titre>devloper</Titre>
+    <Description>we are lokking for developer </Description>
+    <Contrat>CDD</Contrat>
+    <Salaire>1000.0000</Salaire>
+    <type>Stage</type>
+    <Competences>html css js </Competences>
+    <IdEntreprise>3</IdEntreprise>
+    <dateCreation>2022-05-01T00:00:00+00:00</dateCreation>
+  </poste>
+  <poste>
+    <Id>25</Id>
+    <Titre>swift developer</Titre>
+    <Description>we are looking for swift developer</Description>
+    <Contrat>CDI</Contrat>
+    <Salaire>10000.0000</Salaire>
+    <type>Travail</type>
+    <Competences>swift and objectif c</Competences>
+    <IdEntreprise>3</IdEntreprise>
+    <dateCreation>2022-05-01T00:00:00+00:00</dateCreation>
+  </poste>
+  <poste>
+    <Id>27</Id>
+    <Titre>laravel developer</Titre>
+    <Description>we are looking for laravel developer</Description>
+    <Contrat>CDI</Contrat>
+    <Salaire>6000.0000</Salaire>
+    <type>Travail</type>
+    <Competences>php 
+html css
+js 
+</Competences>
+    <IdEntreprise>23</IdEntreprise>
+    <dateCreation>2022-05-06T00:00:00+00:00</dateCreation>
+  </poste>
+  <poste>
+    <Id>29</Id>
+    <Titre>javaDeveloper</Titre>
+    <Description>we are looking for fontend developer</Description>
+    <Contrat>CDI</Contrat>
+    <Salaire>3000.0000</Salaire>
+    <type>Travail</type>
+    <Competences>html css js Aspx </Competences>
+    <IdEntreprise>23</IdEntreprise>
+    <dateCreation>2022-05-07T00:00:00+00:00</dateCreation>
+  </poste>
+  <poste>
+    <Id>32</Id>
+    <Titre>Android devloper</Titre>
+    <Description>we are lokking for laravel developer</Description>
+    <Contrat>CDI</Contrat>
+    <Salaire>3000.0000</Salaire>
+    <type>Travail</type>
+    <Competences>hello and welcome</Competences>
+    <dateCreation>2022-05-12T00:00:00+01:00</dateCreation>
+  </poste>
+  <poste>
+    <Id>33</Id>
+    <Titre>C# Developer</Titre>
+    <Description>we are looking for c# developer expert </Description>
+    <Contrat>CDI</Contrat>
+    <Salaire>10000.0000</Salaire>
+    <type>Travail</type>
+    <Competences>c# razore blazor html css js  </Competences>
+    <dateCreation>2022-05-20T00:00:00+01:00</dateCreation>
+  </poste>
+  <poste>
+    <Id>34</Id>
+    <Titre>swift developer</Titre>
+    <Description>we are looking for swift developer</Description>
+    <Contrat>CDI</Contrat>
+    <Salaire>6000.0000</Salaire>
+    <type>Travail</type>
+    <Competences>swift objectif c html css js </Competences>
+    <IdEntreprise>3</IdEntreprise>
+    <dateCreation>2022-05-20T00:00:00+01:00</dateCreation>
+  </poste>
+  <poste>
+    <Id>51</Id>
+    <Titre>laravel developer</Titre>
+    <Description>we are looking for java developer</Description>
+    <Contrat>CDI</Contrat>
+    <Salaire>3000.0000</Salaire>
+    <type>Travail</type>
+    <Competences>html css js</Competences>
+    <IdEntreprise>42</IdEntreprise>
+    <dateCreation>2022-05-27T00:00:00+01:00</dateCreation>
+  </poste>
+  <poste>
+    <Id>52</Id>
+    <Titre>node js developer</Titre>
+    <Description>we are lokking for node developer</Description>
+    <Contrat>CDI</Contrat>
+    <Salaire>3000.0000</Salaire>
+    <type>Travail</type>
+    <Competences>html css js react node js with exprise</Competences>
+    <IdEntreprise>42</IdEntreprise>
+    <dateCreation>2022-05-27T00:00:00+01:00</dateCreation>
+  </poste>
+  <poste>
+    <Id>53</Id>
+    <Titre>swift developer</Titre>
+    <Description>we are looking for swift developer</Description>
+    <Contrat>CDI</Contrat>
+    <Salaire>10000.0000</Salaire>
+    <type>Travail</type>
+    <Competences>html css js </Competences>
+    <IdEntreprise>42</IdEntreprise>
+    <dateCreation>2022-05-27T00:00:00+01:00</dateCreation>
+  </poste>
+  <poste>
+    <Id>55</Id>
+    <Titre>cloud developer </Titre>
+    <Description>cloud and more </Description>
+    <Contrat>CDI</Contrat>
+    <Salaire>1000.0000</Salaire>
+    <type>Stage</type>
+    <Competences>google cloud AWS Asure</Competences>
+    <IdEntreprise>42</IdEntreprise>
+    <dateCreation>2022-05-30T00:00:00+01:00</dateCreation>
+  </poste>
+</postes>
